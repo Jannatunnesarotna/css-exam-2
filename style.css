@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#jevelin{
+font-weight: bold;
+font-size: 30px;
+
+}
+
+ul{
+    display: flex;
+    align-items: center;
+ justify-content: center;
+ list-style: none;
+gap: 25px;
+font-weight: bold;
+}
+
+.menubar ul li a{
+text-decoration: none;
+
+color: black;
+}
+
+.img-section{
+    display: flex;
+    align-items: center;
+ justify-content: center;
+ margin-top: 50px;
+}
+
+.color{
+    display: flex;
+}
